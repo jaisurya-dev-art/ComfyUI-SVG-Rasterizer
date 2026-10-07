@@ -29,6 +29,10 @@ References used for the implementation:
 
 ## Installation
 
+Get this from Comfy Registry: https://registry.comfy.org/nodes/svg-rasterizer
+
+or
+
 Copy this directory to:
 
 ```text
